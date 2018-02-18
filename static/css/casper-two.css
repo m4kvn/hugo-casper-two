@@ -100,3 +100,18 @@
 .kg-card-markdown h3 {
    margin-bottom: 0.4em;
 }
+
+.post-full-image {
+  max-height: 400px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-full-content {
+  max-width: 868px;
+}
+
+main#site-main.site-main.outer {
+  background: #F2F2F2;
+}
