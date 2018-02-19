@@ -120,6 +120,17 @@
   color: #3eb0ef;
 }
 
+.kg-card-markdown a[target="_blank"]:after {
+  margin-left: 0.4em;
+  color: #aaa;
+  content: "➚";
+  font-size: 0.8em;
+}
+
+.kg-card-markdown a:visited {
+  color: #6200ac;
+}
+
 .kg-card-markdown li {
   margin-bottom: 0em;
 }
